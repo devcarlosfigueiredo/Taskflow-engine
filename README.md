@@ -1,10 +1,6 @@
-# TaskFlow-API
-O TaskFlow é uma API para listas de tarefas desenvolvida para evidenciar excelência em engenharia de software. O projeto foca em infraestrutura e automação, utilizando CI/CD via GitHub Actions e Docker para assegurar testes automatizados e integração contínua.
-
-
 # 🚀 TaskFlow API — Projeto CI/CD de Portfólio
 
-[![CI/CD Pipeline](https://github.com/devcarlosfigueiredo/taskflow-api/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/SEU-USUARIO/taskflow-api/actions/workflows/ci-cd.yml)
+[![CI/CD Pipeline](https://github.com/SEU-USUARIO/taskflow-api/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/SEU-USUARIO/taskflow-api/actions/workflows/ci-cd.yml)
 [![Docker Hub](https://img.shields.io/docker/v/SEU-USUARIO/taskflow-api?label=Docker%20Hub&logo=docker)](https://hub.docker.com/r/SEU-USUARIO/taskflow-api)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -74,7 +70,7 @@ taskflow-api/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/devcarlosfigueiredo/taskflow-api.git
+git clone https://github.com/SEU-USUARIO/taskflow-api.git
 cd taskflow-api
 
 # 2. Crie e ative um ambiente virtual
