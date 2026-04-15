@@ -1,4 +1,3 @@
-# Esta é a linha que define o nome que aparecerá no badge
 name: CI/CD Pipeline
 
 on:
@@ -6,3 +5,13 @@ on:
     branches: [main, develop]
   pull_request:
     branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run a simple test
+        run: echo "Executando testes e build..."

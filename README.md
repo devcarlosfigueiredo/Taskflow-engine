@@ -1,6 +1,6 @@
 # 🚀 TaskFlow API — Projeto CI/CD de Portfólio
 
-![CI/CD Pipeline](https://github.com/devcarlosfigueiredo/Taskflow-engine/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/devcarlosfigueiredo/Taskflow-engine/actions/workflows/ci-cd.yml)
+[![CI/CD Pipeline](https://github.com/devcarlosfigueiredo/Taskflow-engine/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/devcarlosfigueiredo/Taskflow-engine/actions/workflows/ci-cd.yml)
 [![Docker Hub](https://img.shields.io/docker/v/devcarlosfigueiredo/Taskflow-engine?label=Docker%20Hub&logo=docker)](https://hub.docker.com/r/devcarlosfigueiredo/Taskflow-engine)
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
